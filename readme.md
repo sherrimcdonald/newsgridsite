@@ -1,4 +1,4 @@
-# Edge Ledger Site - Responsive Design
+# Newsgrid Site - CSS Grid Layout
 <h2>Technologies used:</h2>
 <ul>
   <li>HTML</li>
